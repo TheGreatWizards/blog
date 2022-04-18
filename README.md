@@ -1,4 +1,4 @@
-# Richard个人博客
+# 知识总结
 
 ## JavaScript 相关
 
