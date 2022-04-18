@@ -1,4 +1,4 @@
-# 杨溜溜的个人博客
+# Richard个人博客
 
 ## JavaScript 相关
 
